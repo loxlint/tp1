@@ -12,7 +12,6 @@ class University
 public:
 
 	void setType(int _type);
-
 	int getType();
 	bool isError();
 	void setError(bool _error);
