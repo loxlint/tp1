@@ -50,7 +50,7 @@ Proffesor::Proffesor(ifstream& fin)
 
 Proffesor::~Proffesor()
 {
-
+	//tut nichego
 }
 
 
